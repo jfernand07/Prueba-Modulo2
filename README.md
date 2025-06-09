@@ -8,14 +8,17 @@ Este proyecto muestra la creacion de un portafolio personal,donde se encontrara 
 
 la pagina fue creada con un fin visual donde se puede apreciar una galeria de imagenes e informacion para esto se uso el metodo de grid flex para poder crear una galeria responsiba y que nos permita adaptar las imagenes sin dañar el orden de la pagina
 
-se uso la implemntacion de @mediaframes para poder darle la adaptacion de las diferentes resoluciones de tamaño
+se uso la implemntacion de @media para 780px y 450px para poder darle la adaptacion de las diferentes resoluciones de tamaño
 utilizamos sombras en las imagenes y cajas
+
+se crearon 3 archivos HTML independientes y 3 CSS, 1 como principal y otros para modificar de manera breve las paginas respectivas
 
 agregamos un formulario basico de ingreso de datos con barios inputs y utilizamos la opcion de placeholder para dar una guia de que datos se deben de ingresar y que sea mas interactiva con el usuario
 
 se agregaron transisciones basicas y simples en texto, imagenes, y barra de navegacion
 
 utilizamos imagenes en el encabezado con la opcion de background image para tener un fondo de encabezado mas armonioso y bonito
+
 
 y por ultimo creamos un footer interactivo y facil de utilizar con las redes sociales.
 
